@@ -1,0 +1,7 @@
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\bin\Debug\1_4_2_Pascals_Triangle.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\bin\Debug\1_4_2_Pascals_Triangle.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\bin\Debug\1_4_2_Pascals_Triangle.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\obj\Debug\1_4_2_Pascals_Triangle.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\obj\Debug\1_4_2_Pascals_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\obj\Debug\1_4_2_Pascals_Triangle.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_4_2_Pascals_Triangle\1_4_2_Pascals_Triangle\obj\Debug\1_4_2_Pascals_Triangle.pdb
